@@ -12,16 +12,13 @@ A curated list of funding opportunities for graduate studies in Machine Learning
 | 3 | University of Sussex | UK | Machine Learning, Atrial Fibrillation Analysis | PhD | 14 Feb 2025 | [Link](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1823-EPSRC-collaborative-studentship:-Advancing-mechanistic-understanding-of-atrial-fibrillation-through-analytical-and-physics-based-machine-learning) |
 | 4 | University of Edinburgh, School of Informatics | UK | Neuro-Symbolic AI, Logic & Deep Learning | 2 x PhD | 15 Feb 2025 | [Link](https://vaishakbelle.com/lab/) |
 | 5 | Loughborough University | UK | AI, Natural Language Processing, Climate Resilience | PhD | 17 Feb 2025 | [Link](https://www.lboro.ac.uk/study/postgraduate/research-degrees/phd-opportunities/building-community-climate-resilience/) |
-| 6 | AI4D Africa | Sub-Saharan Countries | Research in AI and STEM disciplines addressing Sustainable Development Goals. | PhD | 17 Feb 2025 | [Link](https://www.acts-net.org/ai4d-scholarships-2nd-call) |
-| 7 | University of Sussex | United Kingdom | AI, Data Science, Interdisciplinary Research | PhD | 19 Feb 2025 | [Link](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1807-Sussex-AI-PhD-Studentships) |
-| 8 | Ulster University | United Kingdom | NEURO AI; From machine learning to neurocomputational modelling of decision making and learning. | PhD | 24 Feb 2025 | [Link](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/11b-intelligent-systems/1680504#apply-and-key-information) |
-| 9 | Ulster University | United Kingdom | NeuroAI: Neuro-inspired AI of decision-making and learning | PhD | 24 Feb 2025 | [Link](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/11b-intelligent-systems/1680541#apply-and-key-information) |
-| 10 | Ulster University | United Kingdom | Continual learning for modelling non-stationary systems | PhD | 24 Feb 2025 | [Link](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/11b-intelligent-systems/1680489#apply-and-key-information) |
-| 11 | Ontario Tech University | Canada | Vector Scholarship in Artificial Intelligence | Masters | 25 Feb 2025 | [Link](https://gradstudies.ontariotechu.ca/current_students/student_finances/graduate_student_awards/external_awards/vector-scholarship-in-ai1.php) |
-| 12 | AIGreenBots (Horizon Europe MSCA-DN Project) | PT, ES, FR, NL, UK | AI, Robotics, Machine Learning for Agriculture | 11 x PhD | 1 Mar 2025 | [Link](https://aigreenbots.eu/recruitment/open-positions) |
-| 13 | King's College London | UK | Multimodal AI, Statistical Machine Learning, AI for Healthcare | PhD | 20 Mar 2025 | [Link](https://yunpengli.ac/opening/) |
-| 14 | CNRS (CerCo Institute, ANITI) | France | Deep Learning, Cognitive Neuroscience, AI | PhD | 1 Apr 2025 | [Link](https://rufinv.github.io/) |
-| 15 | University of Liège | Belgium | Self-supervised Learning, Foundation Models for Weather & Climate | PhD | Rolling basis | [Link](https://glouppe.github.io/mosaic-call.pdf) |
+| 6 | University of Sussex | United Kingdom | AI, Data Science, Interdisciplinary Research | PhD | 19 Feb 2025 | [Link](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1807-Sussex-AI-PhD-Studentships) |
+| 7 | Ulster University | United Kingdom | Intelligent systems | 3 x PhD | 24 Feb 2025 | [Link 1](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/11b-intelligent-systems/1680504#apply-and-key-information), [Link 2](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/11b-intelligent-systems/1680541#apply-and-key-information), [Link 3](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/11b-intelligent-systems/1680489#apply-and-key-information) |
+| 8 | Ontario Tech University | Canada | Vector Scholarship in Artificial Intelligence | Masters | 25 Feb 2025 | [Link](https://gradstudies.ontariotechu.ca/current_students/student_finances/graduate_student_awards/external_awards/vector-scholarship-in-ai1.php) |
+| 9 | AIGreenBots (Horizon Europe MSCA-DN Project) | Portugal, Spain, France, Netherlands, UK | AI, Robotics, Machine Learning for Agriculture | 11 x PhD | 1 Mar 2025 | [Link](https://aigreenbots.eu/recruitment/open-positions) |
+| 10 | King's College London | UK | Multimodal AI, Statistical Machine Learning, AI for Healthcare | PhD | 20 Mar 2025 | [Link](https://yunpengli.ac/opening/) |
+| 11 | CNRS (CerCo Institute, ANITI) | France | Deep Learning, Cognitive Neuroscience, AI | PhD | 1 Apr 2025 | [Link](https://rufinv.github.io/) |
+| 12 | University of Liège | Belgium | Self-supervised Learning, Foundation Models for Weather & Climate | PhD | Rolling basis | [Link](https://glouppe.github.io/mosaic-call.pdf) |
 
 
 
