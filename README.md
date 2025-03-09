@@ -2,6 +2,21 @@
 
 A curated list of funding opportunities for graduate studies in Machine Learning and AI (Master's and PhD programs). This list is not exhaustive, you can visit websites like [jobs.ac.uk](https://www.jobs.ac.uk/phd) and [findaphd.com](https://www.findaphd.com/) to find more opportunities. All the best!
 
+## Deadlines from March 2025
+| S/N | Institution | Country | Research Area | Type | Deadline | Application Link |
+|----|-------------|---------|---------------|------|----------|------------------|
+| 1 | AIGreenBots (Horizon Europe MSCA-DN Project) | Portugal, Spain, France, Netherlands, UK | AI, Robotics, Machine Learning for Agriculture | 11 x PhD | 1 Mar 2025 | [Link](https://aigreenbots.eu/recruitment/open-positions) |
+| 2 | Danish Data Science Academy (DDSA) | Denmark | Data Science  | 10 x PhD | 5 Mar 2025 | [Link](https://ddsa.dk/phdfellowshipcall2025/) |
+| 3 | University of Edinburgh, School of Informatics | UK | Ethical Implications of Natural Language Processing | PhD | 15 Mar 2025 | [Link](https://informatics.ed.ac.uk/study-with-us/our-degrees/postgraduate-research-and-cdts/postgraduate-research-funding/phd-ethical-implications-natural-language-processing) |
+| 4 | King's College London | UK | Multimodal Machine Learning for Healthcare | PhD | 20 Mar 2025 | [Link](https://yunpengli.ac/opening/) |
+| 5 | Uppsala University | Sweden | Machine Learning, Optimization, Automatic Control, System Identification, Security and Safety | 5 x PhD | 21 Mar, 28 Mar, 7 Apr 2025 (varies by position) | [Link 1](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=790428), [Link 2](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=787980), [Link 3](https://uu.varbi.com/en/what:job/jobID:796410/), [Link 4](https://uu.varbi.com/en/what:job/jobID:795517/), [Link 5](https://uu.varbi.com/en/what:job/jobID:796129/) |
+| 6 | University of Plymouth | UK | Multimodal AI-based Diagnosis of ADHD | PhD | 28 Mar 2025 | [Link](https://www.plymouth.ac.uk/study/research-degrees/postgraduate-research-studentships/multimodal-ai-based-diagnosis-of-attention-deficit-hyperactivity-disorder-adhd) |
+| 7 | CNRS (CerCo Institute, ANITI) | France | Deep Learning, Cognitive Neuroscience, AI | PhD | 1 Apr 2025 | [Link]([https://rufinv.github.io/](https://rufinv.github.io/glow.html#:~:text=ERC%20Advanced%20GLoW-,We%20are%20hiring!!!,-We%20are%20interested)) |
+| 8| Utrecht University | Netherlands | Probabilistic and Differential Programming | 3 x PhD | 21 Apr 2025 | [Link 1](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/phd-position-in-probabilistic-and-differential-algorithms), [Link 2](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/phd-position-in-dsls-for-high-performance-computing), [Link 3](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/phd-position-in-programming-semantics-and-category-theory)  |
+| 9 | Università degli Studi di Napoli “Federico II" | Italy | Socially Aware Robotics | 15 x PhD | 30 Apr 2025 | [Link](https://euraxess.ec.europa.eu/jobs/317628) |
+| 10| Bilateral AI Cluster: Johannes Kepler University Linz, AAU Klagenfurt, ISTA, TU Graz, TU Wien, WU Vienna | Austria| Symbolic and Sub-symbolic AI Methods | 25+ PhD | Open till filled | [Link](https://www.bilateral-ai.net/career) |
+
+
 
 ## Deadlines from February 2025
 
@@ -15,11 +30,7 @@ A curated list of funding opportunities for graduate studies in Machine Learning
 | 6 | University of Sussex | United Kingdom | AI, Data Science, Interdisciplinary Research | PhD | 19 Feb 2025 | [Link](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1807-Sussex-AI-PhD-Studentships) |
 | 7 | Ulster University | United Kingdom | Intelligent systems | 3 x PhD | 24 Feb 2025 | [Link 1](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/11b-intelligent-systems/1680504#apply-and-key-information), [Link 2](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/11b-intelligent-systems/1680541#apply-and-key-information), [Link 3](https://www.ulster.ac.uk/doctoralcollege/find-a-phd/11b-intelligent-systems/1680489#apply-and-key-information) |
 | 8 | Ontario Tech University | Canada | Vector Scholarship in Artificial Intelligence | Masters | 25 Feb 2025 | [Link](https://gradstudies.ontariotechu.ca/current_students/student_finances/graduate_student_awards/external_awards/vector-scholarship-in-ai1.php) |
-| 9 | AIGreenBots (Horizon Europe MSCA-DN Project) | Portugal, Spain, France, Netherlands, UK | AI, Robotics, Machine Learning for Agriculture | 11 x PhD | 1 Mar 2025 | [Link](https://aigreenbots.eu/recruitment/open-positions) |
-| 10 | Danish Data Science Academy (DDSA) | Denmark | Data Science  | 10 x PhD | 5 Mar 2025 | [Link](https://ddsa.dk/phdfellowshipcall2025/) |
-| 11 | King's College London | UK | Multimodal AI, Statistical Machine Learning, AI for Healthcare | PhD | 20 Mar 2025 | [Link](https://yunpengli.ac/opening/) |
-| 12 | CNRS (CerCo Institute, ANITI) | France | Deep Learning, Cognitive Neuroscience, AI | PhD | 1 Apr 2025 | [Link](https://rufinv.github.io/) |
-| 13 | University of Liège | Belgium | Self-supervised Learning, Foundation Models for Weather & Climate | PhD | Rolling basis | [Link](https://glouppe.github.io/mosaic-call.pdf) |
+| 9 | University of Liège | Belgium | Self-supervised Learning, Foundation Models for Weather & Climate | PhD | Open till filled | [Link](https://glouppe.github.io/mosaic-call.pdf) |
 
 
 
