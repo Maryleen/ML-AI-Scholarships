@@ -2,6 +2,19 @@
 
 A curated list of funding opportunities for graduate studies in Machine Learning and AI (Master's and PhD programs). This list is not exhaustive, you can visit websites like [jobs.ac.uk](https://www.jobs.ac.uk/phd) and [findaphd.com](https://www.findaphd.com/) to find more opportunities. All the best!
 
+## Deadlines from May 2025
+| S/N | Institution                                                                 | Location    | Research Area                                                                                           | Type | Deadline         | Application Link |
+|-----|------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------|------|------------------|------------------|
+| 1   | University of Amsterdam, Language Technology Lab                            | Netherlands | Interpretable and Verifiable Communication of NLP Assistant Decisions                                   | PhD  | 18th May 2025    | [link](https://werkenbij.uva.nl/en/vacancies/phd-position-on-interpretable-and-verifiable-communication-of-nlp-assistant-decisions-netherlands-13973) |
+| 2   | Utrecht University                                                           | Netherlands | Utrecht on Causal Effects of Communication in Multi-Agent RL                                            | PhD  | 20th May 2025    | [link](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/phd-position-on-causal-effects-of-communication-in-marl) |
+| 3   | Linkoping University                                                         | Sweden      | Machine Learning                                                                                        | PhD  | 22nd May 2025    | [link](https://liu.se/en/work-at-liu/vacancies/26720) |
+| 4   | Leiden University                                                            | Netherlands | Computer Vision for Biology                                                                             | PhD  | 25th May 2025    | [link](https://careers.universiteitleiden.nl/job/Leiden-PhD-Candidate-on-TATTOOS-paTtern-formATion-Trough-biO-inspired-cOmputer-viSion/1191312101/) |
+| 5   | Technical University of Denmark                                              | Denmark     | Deep Learning Theory and Differential Geometry                                                          | PhD  | 31st May 2025    | [link](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5004/?utm_medium=jobshare&utm_source=External+Job+Share) |
+| 6   | Eindhoven University of Technology (TU/e)                                    | Netherlands | Robust Machine Learning for Dynamic and Out-of-Distribution Data                                        | PhD  | 1st June 2025    | [link](https://www.tue.nl/en/working-at-tue/vacancy-overview/phd-ta-in-robust-machine-learning-for-dynamic-and-out-of-distribution-data?_gl=1*12wsbus*_up*MQ..*_ga*MTY0NTkzNzQ1Ny4xNzQ1NjEzNjA4*_ga_JN37M497TT*MTc0NTYxMzYwOC4xLjEuMTc0NTYxMzc2My4wLjAuMA..) |
+| 7   | School of Computer Science and Statistics in Trinity College                | Dublin      | Explaining and Evaluating Bias in Advice from LLMs                                                      | PhD  | 2nd June 2025    | [link](https://drive.google.com/file/d/131er3499JZnOjhq4QO-Wk1dnhgPHqC07/view) |
+| 8   | Johannes Kepler University Linz, AAU Klagenfurt, ISTA, TU Graz, TU Wien, WU Vienna | Austria     | Bilateral AI Cluster: Symbolic and Sub-symbolic AI Methods                                              | PhD  | Open till filled | [link](https://www.bilateral-ai.net/career) |
+
+
 ## Deadlines from March 2025
 | S/N | Institution | Country | Research Area | Type | Deadline | Application Link |
 |----|-------------|---------|---------------|------|----------|------------------|
