@@ -2,10 +2,10 @@
 
 A curated list of funding opportunities for graduate studies in Machine Learning and AI (Master's and PhD programs). This list is not exhaustive, you can visit websites like [jobs.ac.uk](https://www.jobs.ac.uk/phd) and [findaphd.com](https://www.findaphd.com/) to find more opportunities. All the best!
 
-Deadlines from July 2025
+## Deadlines from July 2025
 | S/N | Institution                                                                 | Location    | Research Area                                                                                           | Type | Deadline         | Application Link |
 |-----|------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------|------|------------------|------------------|
-| 1   | Department of Computer Science, Technical University Darmstadt | Germany |	Agentic Large Language Models for Education	PhD |	11th July 2025 |	[Link](https://careers.ukp.informatik.tu-darmstadt.de/ukprecruitment) |
+| 1   | Department of Computer Science, Technical University Darmstadt | Germany |	Agentic Large Language Models for Education |	PhD |	11th July 2025 |	[Link](https://careers.ukp.informatik.tu-darmstadt.de/ukprecruitment) |
 | 2   | University of Pisa |	Italy	| Artificial Intelligence – AI & Society |	PhD |	18th July 2025 | [Link](https://phd-ai-society.di.unipi.it/applications/) |
 | 3   | University of Pisa	| Italy |	Continual, Decentralized Compositionality of LLMs |	PhD |	18th July 2025 | [Link](https://phd-ai-society.di.unipi.it/applications/) |
 | 4   | Idiap Research Institute	| Switzerland	| Deep learning for natural language processing F/M |	PhD |	28th July 2025 | [Link](https://careers.werecruit.io/en/idiap/offers/two-phd-positions-in-deep-learning-for-natural-language-processing-b8b2f3) |
