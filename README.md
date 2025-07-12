@@ -9,8 +9,10 @@ A curated list of funding opportunities for graduate studies in Machine Learning
 | 2   | University of Pisa |	Italy	| Artificial Intelligence – AI & Society |	PhD |	18th July 2025 | [Link](https://phd-ai-society.di.unipi.it/applications/) |
 | 3   | University of Pisa	| Italy |	Continual, Decentralized Compositionality of LLMs |	PhD |	18th July 2025 | [Link](https://phd-ai-society.di.unipi.it/applications/) |
 | 4   | Idiap Research Institute	| Switzerland	| Deep learning for natural language processing F/M |	PhD |	28th July 2025 | [Link](https://careers.werecruit.io/en/idiap/offers/two-phd-positions-in-deep-learning-for-natural-language-processing-b8b2f3) |
-| 6 | University of Southampton | UK | Sustainable Lifelong Robot Learning | PhD | 31 August 2025 | [Link](https://www.southampton.ac.uk/study/postgraduate-research/projects/resource-efficient-lifelong-robot-learning) |
-| 5   | Johannes Kepler University Linz, AAU Klagenfurt, ISTA, TU Graz, TU Wien, WU Vienna | Austria | Bilateral AI Cluster: Symbolic and Sub-symbolic AI Methods | PhD  | Open till filled | [link](https://www.bilateral-ai.net/career) |
+| 5 | Universiteit Brussel |	Belgium	| Fundamental reinforcement learning algorithm research |	PhD	|31st July 2025 | [Link](https://ai.vub.ac.be/fully-funded-phd-position-in-ai-for-epidemic-modelling/) |
+| 6| Universiteit Brussel	| Belgium	| The use of reinforcement learning to learn optimal policies for pandemic response strategies | PhD |	31st July 2025 | [Link](https://ai.vub.ac.be/fully-funded-phd-position-in-computer-science-for-epidemic-modelling/) |
+| 7 | University of Southampton | UK | Sustainable Lifelong Robot Learning | PhD | 31 August 2025 | [Link](https://www.southampton.ac.uk/study/postgraduate-research/projects/resource-efficient-lifelong-robot-learning) |
+| 8   | Johannes Kepler University Linz, AAU Klagenfurt, ISTA, TU Graz, TU Wien, WU Vienna | Austria | Bilateral AI Cluster: Symbolic and Sub-symbolic AI Methods | PhD  | Open till filled | [link](https://www.bilateral-ai.net/career) |
 
 
 ## Deadlines from June 2025
