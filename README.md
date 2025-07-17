@@ -13,7 +13,7 @@ A curated list of funding opportunities for graduate studies in Machine Learning
 | 6| Universiteit Brussel	| Belgium	| The use of reinforcement learning to learn optimal policies for pandemic response strategies | PhD |	31st July 2025 | [Link](https://ai.vub.ac.be/fully-funded-phd-position-in-computer-science-for-epidemic-modelling/) |
 | 7 | University of Southampton | UK | Sustainable Lifelong Robot Learning | PhD | 31 August 2025 | [Link](https://www.southampton.ac.uk/study/postgraduate-research/projects/resource-efficient-lifelong-robot-learning) |
 | 8   | Johannes Kepler University Linz, AAU Klagenfurt, ISTA, TU Graz, TU Wien, WU Vienna | Austria | Bilateral AI Cluster: Symbolic and Sub-symbolic AI Methods | PhD  | Open till filled | [link](https://www.bilateral-ai.net/career) |
-
+| 9 | College of Computing & Data Science, Nanyang Technological University (NTU) | Singapore |  Foundations of epistemic uncertainty in machine learning | PhD | January 2026 | [Link](https://chau999.github.io/group/) |
 
 ## Deadlines from June 2025
 | S/N | Institution                                                                 | Location    | Research Area                                                                                           | Type | Deadline         | Application Link |
