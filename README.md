@@ -2,7 +2,7 @@
 
 A curated list of funding opportunities for graduate studies in Machine Learning and AI (Master's and PhD programs). This list is not exhaustive, you can visit websites like [jobs.ac.uk](https://www.jobs.ac.uk/phd) and [findaphd.com](https://www.findaphd.com/) to find more opportunities. All the best!
 
-## Deadlines from October - February 2025
+## Deadlines from October 2025
 | S/N | Institution                                                                 | Location    | Research Area                                                                                           | Type | Deadline         | Application Link |
 |-----|------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------|------|------------------|------------------|
 | 1 |	University of Oxford (Cambridge-affiliated) |	UK |	Human-Inspired Artificial Intelligence (PhD) |	PhD |	2nd Dec. 2025 |	[Link](https://www.postgraduate.study.cam.ac.uk/courses/directory/iethpdhii) | 
